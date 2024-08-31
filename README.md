@@ -51,7 +51,7 @@ To view the Tableau dashboard and interact with the visualizations, follow these
    - Analyze the data by interacting with the visualizations and filters available in the Tableau dashboard.
 
 4. **Upload Additional Data**:
-   - You can upload CSV files provided in the repository or download the latest data from [Fog Prediction Data](https://fog.iitk.ac.in/fog-prediction/).
+   - You can upload CSV files provided in the Tableau Project or download the latest data from [Fog Prediction Data](https://fog.iitk.ac.in/fog-prediction/).
    - Use this data to create your own visualizations, perform additional analysis, derive correlations, and integrate them into the dashboard.
 
 ## Usage
